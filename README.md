@@ -14,8 +14,8 @@ In Sublime Text you will need to go to `Preferences > Key Bindings - User` and p
 
 ## Operational System support
 
-Currently this repo only support the Mac OSX platform buh we will be glad to add support to others operational systems with your contribution.
+Currently this repo only supports the Mac OSX platform but we will be glad to add support to others operational systems with your contribution.
 
 ### OSX
 
-If you are using OSK you may need a keyboard layout with accents, if so you can downlad the [Dvorak Intertational Keyboard Layout for Mac OSX](http://d.pr/f/17r6O).
+If you are using OSX you may need a keyboard layout with accents, if so you can downlad the [Dvorak Intertational Keyboard Layout for Mac OSX](http://d.pr/f/17r6O).
