@@ -1,0 +1,17 @@
+[
+  { "keys": ["super+o"], "command": "save" },
+  { "keys": ["super+r"], "command": "prompt_open" },
+  { "keys": ["super+q"], "command": "cut" },
+  { "keys": ["super+j"], "command": "copy" },
+  { "keys": ["super+k"], "command": "paste" },
+  { "keys": ["super+;"], "command": "undo" },
+  { "keys": ["super+shift+;"], "command": "redo" },
+  { "keys": ["super+alt+o"], "command": "save_all" },
+  { "keys": ["super+,"], "command": "close" },
+  { "keys": ["super+u"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
+  { "keys": ["super+alt+u"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+  { "keys": ["super+shift+u"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+  { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  { "keys": ["super+shift+l"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  { "keys": ["super+e"], "command": "duplicate_line" },
+]
