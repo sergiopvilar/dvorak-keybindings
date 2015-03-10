@@ -10,7 +10,7 @@ To setup Atom you will need go to `Preferences... > Keybindings` click in the ke
 
 ### Sublime Text
 
-In Sublime Text you will need to go to `Preferences > Key Bindings - User` and paste the content of `Default (OSX).sublime-keymap` into it.
+In Sublime Text you will need go to `Preferences > Key Bindings - User` and paste the content of `Default (OSX).sublime-keymap` into it.
 
 ## Operational System support
 
